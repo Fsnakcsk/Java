@@ -1,0 +1,5 @@
+poly       많다
+morpism 개념
+
+객체들의 특성이 "서로 다르면서 같은점" "서로 같으면서 다른 점"을 다루는 제도
+polymorphic container 클레스 객체가 아주 중요함.
