@@ -17,7 +17,7 @@ class LinkedList<Type>
 	private ListNode<Type> pHead;  
 	private int nCount;
 	LinkedList()
-	{
+	{ 
 		pHead = null;
 		nCount = 0;
 	} 
