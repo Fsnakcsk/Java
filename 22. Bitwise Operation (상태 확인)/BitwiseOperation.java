@@ -19,7 +19,7 @@ class Student {
 		setRich(rich); 
 		setTall(tall);
 		setCute(cute);
-	}
+	} 
 	String getName() {
 		return ms_name; 
 	}

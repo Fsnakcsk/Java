@@ -21,7 +21,7 @@ class Student {
 		setCute(cute);
 	}
 	String getName() {
-		return ms_name;
+		return ms_name; 
 	}
 	void setMale(boolean flag) {
 		mb_male = flag;
