@@ -16,7 +16,7 @@ class Student {
 	Student(String s,boolean male,boolean rich,boolean tall,boolean cute) {
 		ms_name = s;
 		setMale(male);
-		setRich(rich);
+		setRich(rich); 
 		setTall(tall);
 		setCute(cute);
 	}
