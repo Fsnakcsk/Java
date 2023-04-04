@@ -18,7 +18,7 @@ class LinkedList<Type>
 	private int nCount; 
 	LinkedList()
 	{ 
-		pHead = null;
+		pHead = null; 
 		nCount = 0; 
 	}    
 	boolean isEmpty() {
