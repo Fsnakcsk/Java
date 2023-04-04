@@ -19,8 +19,8 @@ class LinkedList<Type>
 	LinkedList()
 	{ 
 		pHead = null;
-		nCount = 0;
-	} 
+		nCount = 0; 
+	}  
 	boolean isEmpty() {
 		if (pHead == null) return true;
 		else return false;
