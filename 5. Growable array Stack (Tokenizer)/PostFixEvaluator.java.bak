@@ -24,7 +24,7 @@ class PostFixEvaluator
 			aLine = getLine();
 
 			LineBuffer buffer = new LineBuffer(aLine);
- 
+
 			while(true) {
 				int value = 0;
 				int tokenID = buffer.getNextToken();
