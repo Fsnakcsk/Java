@@ -19,7 +19,7 @@ class Stack
    }
    StackItem pop() {
       if (top == null) {
-         System.out.println("stack is empty"); 
+         System.out.println("stack is empty");
          java.lang.System.exit(-1);
       }
       StackItem topItem = top;
