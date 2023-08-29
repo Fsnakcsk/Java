@@ -12,7 +12,7 @@ class Animal
 	Animal() {
 		name = "";
 		weight = 10.0;
-	}
+	} 
 	void setName(String s) {
 		name = s;
 	}
