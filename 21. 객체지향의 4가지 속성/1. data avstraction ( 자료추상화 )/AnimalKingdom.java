@@ -29,7 +29,7 @@ class Animal
 		String s = "name: " + name;
 		s = s + " weight" + weight;
 		return s;
-	}
+	} 
 }
 
 class Lion extends Animal
