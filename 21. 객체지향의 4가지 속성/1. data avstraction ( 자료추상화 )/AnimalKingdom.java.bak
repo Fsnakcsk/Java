@@ -17,7 +17,7 @@ class Animal
 		name = s;
 	}
 	double getWeright() {
-		return weight; 
+		return weight;
 	}
 	void eat(double x) {
 		weight = weight + x;
