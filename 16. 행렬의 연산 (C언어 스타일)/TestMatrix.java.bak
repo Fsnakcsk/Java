@@ -27,7 +27,7 @@ class TestMatrix
 		return c;
 	}
 	static int[][] multiply(int a[][], int b[][]) 
-	{ 
+	{  
 	  // 3x4 4x2 = 3x2
 	  // m_n n_l = m_l
 
