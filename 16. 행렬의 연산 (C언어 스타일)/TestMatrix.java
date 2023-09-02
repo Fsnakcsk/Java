@@ -16,7 +16,7 @@ class TestMatrix
 	static int[][] subtract(int a[][], int b[][]) 
 	{
 		int row = a.length;
-		int col = a[0].length;
+		int col = a[0].length; 
 		int c[][] = new int[row][col];
 
 		for (int i = 0; i < row; i++) {
