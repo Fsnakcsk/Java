@@ -58,7 +58,7 @@ class TestMatrix
 			System.out.println();
 		}
 		System.out.println();
-	}
+	} 
 	public static void main(String[] args) 
 	{
 		int x[][] = { {1,  2,  3,  4},
