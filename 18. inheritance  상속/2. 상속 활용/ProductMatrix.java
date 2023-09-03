@@ -20,7 +20,7 @@ class ProductMatrix extends Matrix
 			System.out.print("   에어콘은 몇대 팔았는고? ");
 			p[i][1] = Double.parseDouble(System.console().readLine());
 			System.out.print("   선풍기는 몇대 팔았는고? ");
-			p[i][2] = Double.parseDouble(System.console().readLine());
+			p[i][2] = Double.parseDouble(System.console().readLine()); 
 		}
 	}	 
 	public String toString()
