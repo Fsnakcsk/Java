@@ -24,7 +24,7 @@ class ProductMatrix extends Matrix
 		}
 	}	
 	public String toString()
-	{ 
+	{
 		String tmp = "";
 		int row = m_row;
 		int col = m_col;
