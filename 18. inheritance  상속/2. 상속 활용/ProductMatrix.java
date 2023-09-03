@@ -22,7 +22,7 @@ class ProductMatrix extends Matrix
 			System.out.print("   ¼±Ç³±â´Â ¸î´ë ÆÈ¾Ò´Â°í? ");
 			p[i][2] = Double.parseDouble(System.console().readLine()); 
 		}
-	}	 
+	}
 	public String toString()
 	{
 		String tmp = "";
