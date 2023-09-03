@@ -26,7 +26,7 @@ class ProductMatrix extends Matrix
 	public String toString()
 	{  
 		String tmp = "";
-		int row = m_row; 
+		int row = m_row;
 		int col = m_col;
 		double p[][] = m_ptr;
 		int i;
