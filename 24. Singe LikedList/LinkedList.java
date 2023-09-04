@@ -25,7 +25,7 @@ class LinkedList<Type>
 		if (pHead == null) return true;
 		else return false;  
 	}
-	int size() { 
+	int size() {
 		return nCount;
 	}
 	void addFirst(Type data)
