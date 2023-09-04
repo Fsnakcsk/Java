@@ -23,7 +23,7 @@ class LinkedList<Type>
 	}     
 	boolean isEmpty() {
 		if (pHead == null) return true;
-		else return false;
+		else return false; 
 	}
 	int size() { 
 		return nCount;
