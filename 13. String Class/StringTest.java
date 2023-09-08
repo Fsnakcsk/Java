@@ -89,16 +89,7 @@ class StringTest
 //----------------------------------------------------------------------------------
 // equals() 같은지 비교. 대소문자 구분
 		
-		if (a == b)
-		{
-			System.out.println("8 equals = YES");
-		}
-		else
-		{
-			System.out.println("8 equals = NO");
-		}
-
-		if (a.equals("song"))
+		if (a.equals("Song"))
 		{
 			System.out.println("8 equals = YES");
 		}

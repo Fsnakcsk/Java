@@ -98,7 +98,7 @@ class StringTest
 			System.out.println("8 equals = NO");
 		}
 
-		if (a.equals("Song"))
+		if (a.equals("song"))
 		{
 			System.out.println("8 equals = YES");
 		}
