@@ -1,6 +1,6 @@
 class Matrix 
 {
-	protected double m_ptr[][];
+	protected double m_ptr[][]; 
 	protected int m_row;
 	protected int m_col;
 	protected int m_precision;
