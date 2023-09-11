@@ -18,7 +18,7 @@ class StringArray extends ArrayList<String>
 				add(iterator.next());
 			}
 	} 
-	void readDataFromConsole() 
+	void readDataFromConsole()
 	{
 		String buffer;
 
