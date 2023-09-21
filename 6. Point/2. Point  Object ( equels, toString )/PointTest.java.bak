@@ -17,7 +17,7 @@ class Point // [extend Object] 쓰지 않아도 사용하하면 컴파일러 하고 있다. 단지 �
 	public boolean equals(Object obj) {
 		// for말마라케타가 Object로 들어오기 때문에 Point로 바꾸고 나서 비교해야 함.
 		Point second = (Point) obj;
-		if (x == second.x && y == second.y)
+		if (x == second.x && y == second.y) 
 		{
 			return true;
 		}
