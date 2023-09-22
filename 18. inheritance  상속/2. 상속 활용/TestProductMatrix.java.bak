@@ -16,7 +16,7 @@ class TestProductMatrix
 		A.readDataFromConsole();
 		System.out.println("\n요렇게 팔았단 말이지!\n" + A);
 
-		Matrix B = new Matrix(n,1); //3x1
+		Matrix B = new Matrix(n,1); //3x1 
 
 		B.set(0,0,100); // 냉장고 가격 100 만원
 		B.set(1,0,50); // 에어콘 가격 50 만원
