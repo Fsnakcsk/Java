@@ -22,7 +22,7 @@ class TestReusability
 		lectureUnits.readDataFromConsole();
 
 		int nStudents;
-
+ 
 		System.out.print("학생은 몇명 ? ");
 		nStudents = Integer.parseInt(System.console().readLine());
 
