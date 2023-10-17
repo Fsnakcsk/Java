@@ -34,7 +34,7 @@ class StringArray extends ArrayList<String>
 		for(int i = 0; i < size(); i++) {
 			tmp = tmp + get(i) + "\n";
 		}
-		return tmp; 
+		return tmp;
 	}
 }
 
