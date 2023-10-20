@@ -14,7 +14,7 @@ class ListNode<Type>
 
 class LinkedList<Type> 
 {
-	private ListNode<Type> pHead;   
+	private ListNode<Type> pHead;  
 	private int nCount; 
 	LinkedList()
 	{ 
