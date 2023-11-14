@@ -1,4 +1,4 @@
-class ListNode<Type> {
+class ListNode<Type> { 
 	private Type data;
 	private ListNode<Type> pPrev;
 	private ListNode<Type> pNext;
