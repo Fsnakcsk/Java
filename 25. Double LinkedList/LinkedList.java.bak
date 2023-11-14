@@ -115,6 +115,7 @@ class LinkedList<Type>
 			System.out.println("The list is empty. No data removed.");
 			return false;
 		}
+		// 첫번쨰 것 삭제
 		if (pHead != null && pHead.getData().equals(data)) {
 			ListNode<Type> pNextNode = pHead.getNext();
 			pHead.remove();
